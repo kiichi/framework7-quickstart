@@ -30,4 +30,4 @@ https://framework7.io
 
 Note: Update CDN links depend on the project phase. Currently it's using 4.x
 
-[sample.gif (188×406)](https://raw.githubusercontent.com/kiichi/framework7-quickstart/master/sample.gif)
+![sample.gif (188×406)](https://raw.githubusercontent.com/kiichi/framework7-quickstart/master/sample.gif)
