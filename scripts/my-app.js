@@ -8,3 +8,9 @@ var app = new Framework7({
 });
 
 var viewMain = app.views.create('.view-main');
+
+var $$ = Dom7;
+
+$$('.submit-form').on('click', function () {
+  app.dialog.alert('Thank you','Success!');
+});
